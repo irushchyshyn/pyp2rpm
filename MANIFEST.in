@@ -6,3 +6,4 @@ include tests/*.py
 include tests/test_data/*.spec *.gz *.whl *.zip *.egg
 include tests/test_data/LICENSE
 include pyp2rpm.1
+include mybin.py
